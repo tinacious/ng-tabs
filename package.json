@@ -1,0 +1,23 @@
+{
+  "name": "ng-tabs",
+  "version": "0.0.1",
+  "description": "Tabs directive for Angular.js",
+  "main": "tabs.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinacious/angular-tabs.git"
+  },
+  "keywords": [
+    "Angular",
+    "NG",
+    "tabs",
+    "directive"
+  ],
+  "author": "Tina Holly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinacious/angular-tabs/issues"
+  }
+}
